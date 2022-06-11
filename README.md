@@ -1,1 +1,1 @@
-# Distributed-Computing-and-HPC-Cluster
+Distributed Computing via Slurm and the Statistics High Performance Computing (HPC) Cluster
